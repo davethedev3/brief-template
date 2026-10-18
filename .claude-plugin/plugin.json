@@ -1,0 +1,1 @@
+{ "name": "brief-template", "version": "0.3.0", "description": "Expands an Agent prompt that names a markdown brief template and {{variable}} values into the finished brief before the agent spawns.", "author": { "name": "davethedev3" }, "license": "MIT" }
